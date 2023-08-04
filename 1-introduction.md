@@ -1,4 +1,5 @@
 # 1. Introduction
+
 Ce document a été concocté par les soins de Game* (à lire Game Star), une commission de la CLIC, qui est une association étudiante au sein de l’EPFL.
 
 ## (Sneak peek) du produit final (après construction / après finition)
@@ -10,4 +11,5 @@ Ce document a été concocté par les soins de Game* (à lire Game Star), une co
 *Borne après finition*
 
 ---
-<p align="center"><a href="./2-preparation.md">Suivant ></a></p>
+
+<p align="center"><a href="./2-preparation.md">Suivant &gt;</a></p>

@@ -1,4 +1,5 @@
 # 3. Construction
+
 - [Découpe du bois](#d-coupe-du-bois)
   * [Liste de découpe du bois](#liste-de-d-coupe-du-bois)
   * [Détail par pièce](#d-tail-par-pi-ce)
@@ -19,7 +20,9 @@
 - [Assemblage](#assemblage)
 
 ## Découpe du bois
+
 ### Liste de découpe du bois
+
 | ID | Nom | Matériel | Quantité | Longueur | Largeur | Épaisseur | 
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | A | Side panel | MDF | 2 | 1'666mm | 610mm | 19mm |
@@ -44,52 +47,69 @@
 > Note : Les pièces L et M n'existent plus dans la version actuelle du plan.
 
 ### Détail par pièce
+
 #### A - Side panel
+
 ![plan_04](./img/plan_04.jpg)
 
 ![plan_05](./img/plan_05.jpg)
 
 #### B - Top panel
+
 ![plan_12](./img/plan_12.jpg)
 
 #### C - Marquee Bottom panel
+
 ![plan_06](./img/plan_06.jpg)
 
 #### D - Front panel
+
 ![plan_07](./img/plan_07.jpg)
 
 #### E - Monitor Support panel
+
 ![plan_08](./img/plan_08.jpg)
 
 #### F -Top Rear panel & door
+
 ![plan_09](./img/plan_09.jpg)
 
 #### G - Bottom Rear panel
+
 ![plan_10](./img/plan_10.jpg)
 
 #### H - Speakers panel
+
 ![plan_11](./img/plan_11.jpg)
 
 #### I - Front door
+
 ![plan_13](./img/plan_13.jpg)
 
 #### J - Bottom panel
+
 ![plan_14](./img/plan_14.jpg)
 
 #### K - Control console
+
 ![plan_15](./img/plan_15.jpg)
 
 #### N - Monitor console
+
 ![plan_16](./img/plan_16.jpg)
 
 #### O - Door panel
-![plan_17](./img/plan_177.jpg)
+
+![plan_17](./img/plan_17.jpg)
 
 #### P - Foot panel
+
 ![plan_18](./img/plan_18.jpg)
 
 ## Assemblage
+
 ![plan_03](./img/plan_03.jpg)
 
 ---
-<p align="center"><a href="./2-preparation.md">< Précédent</a> – <a href="./4-peinture.md">Suivant ></a></p>
+
+<p align="center"><a href="./2-preparation.md">&lt; Précédent</a> – <a href="./4-peinture.md">Suivant &gt;</a></p>

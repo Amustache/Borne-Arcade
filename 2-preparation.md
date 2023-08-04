@@ -1,4 +1,5 @@
 # 2. Préparation
+
 - [Outils](#outils)
 - [Matériel](#mat-riel)
   * [Structure principale](#structure-principale)
@@ -7,6 +8,7 @@
 - [Liste de découpe du bois](#liste-de-d-coupe-du-bois)
 
 ## Outils
+
 Voici une liste des outils nécessaire à la construction d’une borne arcade.
 
 | Nom | Description |
@@ -20,9 +22,11 @@ Voici une liste des outils nécessaire à la construction d’une borne arcade.
 | Rouleaux à peinture | De quoi faire la peinture |
 
 ## Matériel
+
 Voici une liste du matériel nécessaire à la construction d’une borne arcade, avec les quantités nécessaires par unité.
 
 ### Structure principale
+
 | Nom | Unité | Quantité |
 |:---:|:---:|:---:|
 | Bois MDF 19mm | m² | 3,7 |
@@ -37,6 +41,7 @@ Voici une liste du matériel nécessaire à la construction d’une borne arcade
 > Note :  Le Bois ??? 20mm peut être remplacé par n'importe quoi tant que c'est solide.
 
 ### Électronique
+
 | Nom | Unité | Quantité |
 |:---:|:---:|:---:|
 | Écran HDMI 27" | pièce | 1 |
@@ -55,6 +60,7 @@ Voici une liste du matériel nécessaire à la construction d’une borne arcade
 > Note : La Raspberry Pi peut être remplacée par une Banana Pi, ou tout autre "ordinateur" avec une prise HDMI
 
 ### Finitions et décoration
+
 | Nom | Unité | Description |
 |:---:|:---:|:---:|
 | Papier de verre | ??? | ??? |
@@ -63,4 +69,5 @@ Voici une liste du matériel nécessaire à la construction d’une borne arcade
 | Peinture blanche | L | ??? |
 
 ---
-<p align="center"><a href="./1-introduction.md">< Précédent</a> – <a href="./3-construction.md">Suivant ></a></p>
+
+<p align="center"><a href="./1-introduction.md">&lt; Précédent</a> – <a href="./3-construction.md">Suivant &gt;</a></p>
