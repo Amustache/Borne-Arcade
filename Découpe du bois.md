@@ -1,0 +1,196 @@
+## Étapes
+
+1. Couper chaque pièce en fonction de sa longueur et de sa largeur, par exemple avec une scie circulaire ou bien une machine-outil à commande numérique (CNC)\*. Il est aussi possible de commander les pièces déjà découpées dans la plupart des marchants de bois.
+2. Noter sur chaque pièce ses caractéristiques (ID, longueur, largeur, angles, sens) au crayon.
+   ![pieces_example](pieces_example.jpg)
+3. Travailler les deux pièces A - Side panel ([cliquer pour le détail](a---side-panel))\* :
+	1. Tracer toutes les lignes, angles, etc.
+	2. Expliciter les parties à ne pas garder, en gribouillant dessus par exemple.
+	3. Découper, par exemple avec une scie circulaire, ou bien une scie sauteuse, ou bien une scie à main, ou bien une CNC.
+4. Couper les angles sur toutes les pièces restantes ([cliquer pour le détail](#pièces-groupées-par-angles-identiques)), par exemple avec une scie circulaire sur table.
+5. Si nécessaire, rattraper les petits ratés sur les planches (poncer un peu, par exemple).
+
+> Note : si une CNC est disponible, découper les side panels directement avec la forme désirée.
+
+## Liste des pièces
+
+### MDF 19mm
+
+Cliquer sur le nom d'une pièce pour accéder au détail.
+
+ID | Nom | Quantité | Longueur | Largeur  | Angle 1 | Angle 2
+:---:|:---:|:---:|:---:|:---:|:---:|:---:
+A | [Side panel](a---side-panel) | 2 | 1'666mm | 610mm | / | /
+B | [Top panel](#b---top-panel) | 1 | 270mm | 685mm | 4° | 12°
+C | [Marquee Bottom panel](#c---marquee-bottom-panel) | 1 | 210mm | 685mm | 5° | 25°
+D | [Front panel](#d---front-panel) | 1 | 115mm | 685mm | 11° | 21°
+E | [Monitor Support panel](#e---monitor-support-panel) | 1 | 83mm | 685mm | 30° | 23°
+F_1\* | [Top Rear panel](#f--top-rear-panel--door) | 1 | 179mm | 685mm | 12° | /
+F_2\* | [Top Rear door](#f--top-rear-panel--door) | 1 | 355mm | 685mm | / | /
+G | [Bottom Rear panel](#g---bottom-rear-panel) | 1 | 1'070mm | 685mm | / | /
+H | [Speakers panel](#h---speakers-panel) | 1 | 130mm | 685mm | 25° | 30°
+I | [Front door](#i---front-door) | 1 | 658mm | 685mm | 21° | /
+J | [Bottom panel](#j---bottom-panel) | 1 | 490mm | 685mm | / | /
+K\* | [Control console](#k---control-console) | 1 | 255mm | 685mm | 11° | 23°
+N | [Monitor console](#n---monitor-console) | 1 | 471mm | 685mm | 30° | 30°
+O | [Door panel](#o---door-panel) | 1 | 116mm | 685mm | 21° | 21°
+P | [Foot panel](#p---foot-panel) | 1 | 50mm | 685mm | / | /
+
+> Note : Les pièces L et M n'existent plus dans la version actuelle du plan.
+
+> Note : Les pièces F_1 et F_2 peuvent être laissées ensemble s'il n'y a pas besoin de porte arrière (pour une longueur totale de 534mm).
+
+> Note : Pour la pièce K, vous pouvez réaliser autant de variations que nécessaire (e.g., arcade, neutre, etc.).
+
+<details>
+<summary>Pièces triées par longueur (cliquer pour ouvrir)</summary>
+
+#### Pièces triées par longueur
+
+ID | Nom | Quantité | Longueur | Largeur  | Angle 1 | Angle 2
+:---:|:---:|:---:|:---:|:---:|:---:|:---:
+A | Side panel | 2 | 1'666mm | 610mm | / | /
+G | Bottom Rear panel | 1 | 1'070mm | 685mm | / | /
+I | Front door | 1 | 658mm | 685mm | 21° | /
+J | Bottom panel | 1 | 490mm | 685mm | / | /
+N | Monitor console | 1 | 471mm | 685mm | 30° | 30°
+F_2* | Top Rear door | 1 | 355mm | 685mm | / | /
+B | Top panel | 1 | 270mm | 685mm | 4° | 12°
+K | Control console | 1* | 255mm | 685mm | 11° | 23°
+C | Marquee Bottom panel | 1 | 210mm | 685mm | 5° | 25°
+F_1* | Top Rear panel | 1 | 179mm | 685mm | 12° | /
+H | Speakers panel | 1 | 130mm | 685mm | 25° | 30°
+O | Door panel | 1 | 116mm | 685mm | 21° | 21°
+D | Front panel | 1 | 115mm | 685mm | 11° | 21°
+E | Monitor Support panel | 1 | 83mm | 685mm | 30° | 23°
+P | Foot panel | 1 | 50mm | 685mm | / | /
+
+</details>
+
+<details>
+<summary>Pièces groupées par angles identiques (cliquer pour ouvrir)</summary>
+
+#### Pièces groupées par angles identiques
+
+ID | Nom | Quantité | Longueur | Largeur  | Angle 1 | Angle 2
+:---:|:---:|:---:|:---:|:---:|:---:|:---:
+B | Top panel | 1 | 270mm | 685mm | 4° | <span style="color:maroon">12°</span>
+F_1 | Top Rear panel | 1 | 179mm | 685mm | <span style="color:maroon">12°</span> | /
+I | Front door | 1 | 658mm | 685mm | <span style="color:purple">21°</span> | /
+O | Door panel | 1 | 116mm | 685mm | <span style="color:purple">21°</span> | <span style="color:purple">21°</span>
+D | Front panel | 1 | 115mm | 685mm | <span style="color:green">11°</span> | <span style="color:purple">21°</span>
+K | Control console | 1 | 255mm | 685mm | <span style="color:green">11°</span> | <span style="color:olive">23°</span>
+E | Monitor Support panel | 1 | 83mm | 685mm | <span style="color:blue">30°</span> | <span style="color:olive">23°</span>
+N | Monitor console | 1 | 471mm | 685mm | <span style="color:blue">30°</span> | <span style="color:blue">30°</span>
+H | Speakers panel | 1 | 130mm | 685mm | <span style="color:teal">25°</span> | <span style="color:blue">30°</span>
+C | Marquee Bottom panel | 1 | 210mm | 685mm | 5° | <span style="color:teal">25°</span>
+
+##### Pièces sans angle
+
+ID | Nom | Quantité | Longueur | Largeur  | Angle 1 | Angle 2
+:---:|:---:|:---:|:---:|:---:|:---:|:---:
+A | Side panel | 2 | 1'666mm | 610mm | / | /
+F_2 | Top Rear door | 1 | 355mm | 685mm | / | /
+G | Bottom Rear panel | 1 | 1'070mm | 685mm | / | /
+J | Bottom panel | 1 | 490mm | 685mm | / | /
+P | Foot panel | 1 | 50mm | 685mm | / | /
+
+</details>
+
+### Autre bois 20mm
+
+Dans notre exemple, nous avons utilisé du sapin.
+
+ID | Nom | Quantité | Longueur | Largeur
+:---:|:---:|:---:|:---:|:---:
+t | Tasseaux | 9 | 20mm | 150mm
+p\* | Pieds | 4 | 50mm | 50mm
+
+> Note : les pieds peuvent être remplacés par des patins pour meubles, par exemple.
+
+## Détail des pièces
+
+### A - Side panel
+
+![plan_04](img%201/plan_04.jpg)
+
+![plan_05](img%201/plan_05.jpg)
+
+#### Astuces
+
+1. Pour faciliter le traçage des angles, tracer toutes les mesures en longueur et en largeur, pour former une grille. Il suffit ensuite de relier les bons croisements entre eux - pas besoin de rapporteur ou de compas du coup.
+   ![a_grid](a_grid.jpg)
+2. Ne pas hésiter à gribouiller sur les parties qui ne vont pas être conservées, pour être certain de savoir où couper.
+   ![a_scribble](a_scribble.jpg)
+3. Il a deux pièces A identiques à réaliser. Pour gagner du temps, faire les tracés sur une planche, puis joindre les deux planches ensemble, par exemple avec des serre-joints ou quelques vis bien placées. Vous découperez ainsi les deux planches de manière identique et en même temps.
+   ![a_clamp](a_clamp.jpg)
+
+#### Résultat
+
+![a_result](a_result.jpg)
+
+### B - Top panel
+
+![plan_12](img%201/plan_12.jpg)
+
+### C - Marquee Bottom panel
+
+![plan_06](img%201/plan_06.jpg)
+
+### D - Front panel
+
+![plan_07](img%201/plan_07.jpg)
+
+### E - Monitor Support panel
+
+![plan_08](img%201/plan_08.jpg)
+
+#### Astuce
+
+Tout de suite percer un trou de 9mm pour permettre de faire passer
+
+#### Résultat
+
+### F -Top Rear panel & door
+
+![plan_09](img%201/plan_09.jpg)
+
+#### Astuces
+
+**TODO**
+
+### G - Bottom Rear panel
+
+![plan_10](img%201/plan_10.jpg)
+
+#### Astuces
+
+#### Résultat
+
+### H - Speakers panel
+
+![plan_11](img%201/plan_11.jpg)
+
+### I - Front door
+
+![plan_13](img%201/plan_13.jpg)
+
+### J - Bottom panel
+
+![plan_14](img%201/plan_14.jpg)
+
+### K - Control console
+
+![plan_15](img%201/plan_15.jpg)
+
+### N - Monitor console
+
+![plan_16](img%201/plan_16.jpg)
+
+### O - Door panel
+
+![plan_17](img%201/plan_17.jpg)
+
+### P - Foot panel
+
+![plan_18](img%201/plan_18.jpg)
